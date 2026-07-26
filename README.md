@@ -136,3 +136,19 @@ Enviar Postagem
 Sair
 
 <script> function verificarSenha() { const senhaInserida = document.getElementById('senha').value; const senhaCorreta = 'tonito20'; if (senhaInserida === senhaCorreta) { document.getElementById('login-box').style.display = 'none'; document.getElementById('painel-box').style.display = 'block'; } else { alert('Senha incorreta! Use a senha tonito20 que está na tela.'); } } function deslogar() { document.getElementById('senha').value = ''; document.getElementById('login-box').style.display = 'block'; document.getElementById('painel-box').style.display = 'none'; }
+<textarea placeholder="Escreva sua postagem aqui..."></textarea>
+
+Enviar Postagem
+
+Sair
+<script> function verificarSenha() { const senhaInserida = document.getElementById('senha').value; const senhaCorreta = 'tonito20'; if (senhaInserida === senhaCorreta) { document.getElementById('login-box').style.display = 'none'; document.getElementById('painel-box').style.display = 'block'; } else { alert('Senha incorreta! Use a senha tonito20 que está na tela.'); } } function deslogar() { document.getElementById('senha').value = ''; document.getElementById('login-box').style.display = 'block'; document.getElementById('painel-box').style.display = 'none'; } </script> <textarea placeholder=""></textarea>
+Enviar Postagem
+
+Sair
+
+<script> function verificarSenha() { const senhaInserida = document.getElementById('senha').value; const senhaCorreta = 'tonito20'; if (senhaInserida === senhaCorreta) { document.getElementById('login-box').style.display = 'none'; document.getElementById('painel-box').style.display = 'block'; } else { alert('Senha incorreta! Use a senha tonito20 que está na tela.'); } } function deslogar() { document.getElementById('senha').value = ''; document.getElementById('login-box').style.display = 'block'; document.getElementById('painel-box').style.display = 'none'; } function verificarSenha() { const senhaInserida = document.getElementById('senha').value; const senhaCorreta = 'tonito20'; if (senhaInserida === senhaCorreta) { document.getElementById('login-box').style.display = 'none'; document.getElementById('painel-box').style.display = 'block'; } else { alert('Senha incorreta! Use a senha tonito20 que está na tela.'); } } function deslogar() { document.getElementById('senha').value = ''; document.getElementById('login-box').style.display = 'block'; document.getElementById('painel-box').style.display = 'none'; } </script> <textarea placeholder=""></textarea>
+Enviar Postagem
+
+Sair
+
+<script> function verificarSenha() { const senhaInserida = document.getElementById('senha').value; const senhaCorreta = 'tonito20'; if (senhaInserida === senhaCorreta) { document.getElementById('login-box').style.display = 'none'; document.getElementById('painel-box').style.display = 'block'; } else { alert('Senha incorreta! Use a senha tonito20 que está na tela.'); } } function deslogar() { document.getElementById('senha').value = ''; document.getElementById('login-box').style.display = 'block'; document.getElementById('painel-box').style.display = 'none'; }
